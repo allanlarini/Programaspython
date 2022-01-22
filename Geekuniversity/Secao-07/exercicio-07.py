@@ -26,10 +26,10 @@ per_3 = (def_3*100)/qtd_mouse
 per_4 = (def_4*100)/qtd_mouse
 print("Situacao                             Quantidade          Percentual")
 print(
-    "1-Necessita da esfera                   {0}                 {1:.2f}".format(def_1, per_1))
+    "1-Necessita da esfera                   {0}                 {1:.2f}".format(def_1, per_1))  # noqa
 print(
-    "2-Necessita de limpeza                  {0}                 {1:.2f}".format(def_2, per_2))
+    "2-Necessita de limpeza                  {0}                 {1:.2f}".format(def_2, per_2))  # noqa
 print(
-    "3-Necessita troca do cabo/conect.       {0}                 {1:.2f}".format(def_3, per_3))
+    "3-Necessita troca do cabo/conect.       {0}                 {1:.2f}".format(def_3, per_3))  # noqa
 print(
-    "4-Quebrado ou inutilizado               {0}                 {1:.2f}".format(def_4, per_4))
+    "4-Quebrado ou inutilizado               {0}                 {1:.2f}".format(def_4, per_4))  # noqa
