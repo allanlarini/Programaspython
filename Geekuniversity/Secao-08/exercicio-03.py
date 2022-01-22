@@ -1,5 +1,5 @@
 vetor = []
-for n in range(1, 11):
+for n in range(0, 10):
     valor = int(input("Insira um valor: "))
     vetor.append(valor)
 vetor.reverse()

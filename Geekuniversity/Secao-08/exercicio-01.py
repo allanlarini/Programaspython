@@ -1,6 +1,6 @@
 vetor = []
 pares = []
-for n in range(1, 6):
+for n in range(0, 5):
     vetor.append(n)
     if n % 2 == 0:
         pares.append(n)
